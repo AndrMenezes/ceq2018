@@ -1,4 +1,4 @@
-# Special Topics in Statistics - DEs/UEM #
+# Statistical Quality Control - DEs/UEM #
   
 > Works developed for the course of Statistical Quality Control in Statistics in the first semester of 2018 taught by professor [Terezinha Aparecida Guedes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783137J6) at [DEs/UEM](http://www.des.uem.br/).
 
