@@ -15,7 +15,7 @@ This work describes the analysis performed in the paper of Kappel e Rodrigues (2
 > [R script](https://github.com/AndrMenezes/ceq2018/blob/master/work1/analise.R)
 ***
 
-## A Literature Review on control charts for monitoring fractions and proportions
+## A literature review on control charts for monitoring fractions and proportions
 In this work I present a review of statistical methods to monitoring variables limited in the unit interval (0,1).
 
 
