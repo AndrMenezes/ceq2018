@@ -1,0 +1,29 @@
+Data set from page 470 of Statistical Theory and Methodology in Science and Engineering, Brownlee (1965)
+They were obtained from 21 days of operation of a plant for the oxidation of ammonia to nitric acid.
+x1: rate of operation of the plant
+x2: temperature of cooling water circulated through coils in the absorption tower
+x3: concentration of acid circulating, minus 50, times 10: i.e., 89 corresponds to 58.9 per cent acid
+y: proportion of ammonia unconverted
+
+x1	x2	x3	y
+80	27	89	0.042
+80	27	88	0.037
+75	25	90	0.037
+62	24	87	0.028
+62	22	87	0.018
+62	23	87	0.018
+62	24	93	0.019
+62	24	93	0.02
+58	23	87	0.015
+58	18	80	0.014
+58	18	89	0.014
+58	17	88	0.013
+58	18	82	0.011
+58	19	93	0.012
+50	18	89	0.008
+50	18	86	0.007
+50	19	72	0.008
+50	19	79	0.008
+50	20	80	0.009
+56	20	82	0.015
+70	20	91	0.015
